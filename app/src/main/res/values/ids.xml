@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnCalculate" type="id">btnCalculate</item>
+    <item name="tvResult" type="id">tvResult</item>
+</resources>
